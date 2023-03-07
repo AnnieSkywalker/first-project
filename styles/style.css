@@ -11,6 +11,12 @@
 @import url(../blocks/header/logo/__link/logo__link.css);
 @import url(../blocks/header/logo/_place/logo_place_header.css);
 
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__brief/description__brief.css);
+@import url(../blocks/description/__main-text/description__main-text.css);
+@import url(../blocks/description/__paragraph/description__paragraph.css);
+@import url(../blocks/description/__span-accent/description__span-accent.css);
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
