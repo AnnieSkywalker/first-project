@@ -18,7 +18,9 @@
 @import url(../blocks/description/tow-columns/__span-accent/tow-columns__span-accent.css);
 
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/__text/section-title__text.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/__text/section-subtitle__text.css);
 
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/techniques/cards/__item/cards_item.css);
