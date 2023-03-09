@@ -1,10 +1,10 @@
-.description__paragraph {
+.tow-columns__paragraph {
   margin: 0;
   font-size: 24px;
   font-weight: normal;
   line-height: 34px;
 }
 
-.description__paragraph:not(:last-child) {
+.tow-columns__paragraph:not(:last-child) {
   margin-bottom: 30px;
 }
