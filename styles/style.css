@@ -1,4 +1,5 @@
 @import url(../blocks/page.css);
+@import url(../blocks/content/content.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -26,7 +27,7 @@
 @import url(../blocks/techniques/cards/cards.css);
 @import url(../blocks/techniques/cards/__item/cards__item.css);
 @import url(../blocks/techniques/cards/__title/cards__title.css);
-@import url(../blocks/techniques/cards/__image/card__image);
+@import url(../blocks/techniques/cards/__image/cards__image.css);
 @import url(../blocks/techniques/cards/__description/cards__description.css);
 
 /* и элемента с модификатором вида ключ-значение */
