@@ -12,11 +12,11 @@
 @import url(../blocks/header/logo/_place/logo_place_header.css);
 
 @import url(../blocks/description/description.css);
-@import url(../blocks/description/tow-columns/tow-columns.css);
-@import url(../blocks/description/tow-columns/__brief/tow-columns__brief.css);
-@import url(../blocks/description/tow-columns/__main-text/tow-columns__main-text.css);
-@import url(../blocks/description/tow-columns/__paragraph/tow-columns__paragraph.css);
-@import url(../blocks/description/tow-columns/__span-accent/tow-columns__span-accent.css);
+@import url(../blocks/tow-columns/tow-columns.css);
+@import url(../blocks/tow-columns/__brief/tow-columns__brief.css);
+@import url(../blocks/tow-columns/__main-text/tow-columns__main-text.css);
+@import url(../blocks/tow-columns/__paragraph/tow-columns__paragraph.css);
+@import url(../blocks/tow-columns/__span-accent/tow-columns__span-accent.css);
 
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/__text/section-title__text.css);
@@ -24,16 +24,14 @@
 @import url(../blocks/section-subtitle/__text/section-subtitle__text.css);
 
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/techniques/cards/cards.css);
-@import url(../blocks/techniques/cards/__item/cards__item.css);
-@import url(../blocks/techniques/cards/__title/cards__title.css);
-@import url(../blocks/techniques/cards/__image/cards__image.css);
-@import url(../blocks/techniques/cards/__description/cards__description.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__description/cards__description.css);
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__text/table__text.css);
