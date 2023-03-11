@@ -1,0 +1,21 @@
+.kaufman {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1f1f1f;
+}
+
+.kaufman__section-title {
+  margin-top: 90px;
+  text-align: center;
+}
+
+.kaufman__section-subtitle {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.kaufman__table {
+  margin: 0 auto 90px;
+}
