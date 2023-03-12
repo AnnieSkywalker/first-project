@@ -1,0 +1,13 @@
+h1 {
+  margin: 0;
+}
+
+.feynman__title {
+  padding-top: 100px;
+  width: 648px;
+  text-align: center;
+  font-size: 120px;
+  font-weight: 600;
+  line-height: 1.15;
+  z-index: 3;
+}
