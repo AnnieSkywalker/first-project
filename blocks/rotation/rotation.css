@@ -1,4 +1,4 @@
-.header__rotation {
+.header__rotation, .kaufman__rotation {
   -webkit-animation: rotation 20s linear infinite;
   animation: rotation 20s linear infinite;
 }

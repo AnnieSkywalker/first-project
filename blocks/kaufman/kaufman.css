@@ -4,18 +4,23 @@
   flex-direction: column;
   align-items: center;
   background-color: #1f1f1f;
+  position: relative;
+  overflow: hidden;
 }
 
 .kaufman__section-title {
   margin-top: 90px;
   text-align: center;
+  z-index: 2;
 }
 
 .kaufman__section-subtitle {
   margin-top: 20px;
   text-align: center;
+  z-index: 2;
 }
 
 .kaufman__table {
   margin: 0 auto 90px;
+  z-index: 2;
 }
