@@ -8,4 +8,4 @@
   <li><a href="https://code.s3.yandex.net/web-plus/project-1/sprint-2-brief.pdf" target="_blank">Бриф №2</a></li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnieSkywalker&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
